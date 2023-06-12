@@ -1,0 +1,10 @@
+* csv-parser
+
+Some hacks on top of Alain Picard's CSV parser
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sharplispers/csv-parser   |
+| commit  | a1f89ec  |
+| systems | csv-parser |
+|---------+-------------------------------------------|
+
